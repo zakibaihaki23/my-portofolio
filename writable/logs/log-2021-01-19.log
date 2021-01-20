@@ -1,0 +1,12 @@
+CRITICAL - 2021-01-19 05:26:35 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/CodeIgniter.php(223): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/CodeIgniter.php(171): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/spark(53): require('/Users/tb/.bitn...')
+#4 {main}
+CRITICAL - 2021-01-19 05:42:19 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/CodeIgniter.php(223): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/CodeIgniter.php(171): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/system/bootstrap.php(158): CodeIgniter\CodeIgniter->initialize()
+#3 /Users/tb/.bitnami/stackman/machines/xampp/volumes/root/htdocs/porto/spark(53): require('/Users/tb/.bitn...')
+#4 {main}
